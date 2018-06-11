@@ -1,2 +1,1 @@
-# Curriculo
-# Curriculo_Gabriel
+# Curriculo do Gabriel
